@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\Wordle.exe
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\Wordle.deps.json
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\Wordle.runtimeconfig.json
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\Wordle.dll
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\ref\Wordle.dll
+\\Mac\Home\Documents\Wordle\bin\Debug\net6.0\Wordle.pdb
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.AssemblyInfo.cs
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.dll
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\ref\Wordle.dll
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.pdb
+\\Mac\Home\Documents\Wordle\obj\Debug\net6.0\Wordle.genruntimeconfig.cache
